@@ -1,4 +1,9 @@
 # 👋 Salut, moi c’est Lionel Mpata
+![AWS](https://img.shields.io/badge/AWS-IAM-orange?logo=amazon-aws)
+![Recherche de stage](https://img.shields.io/badge/Stage-octobre--2025-blue)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%2FKali-important?logo=linux)
+![Langages](https://img.shields.io/badge/Python%20%7C%20Bash-automatisation-green?logo=python)
+
 
 🛡️ Passionné par la cybersécurité cloud, je me spécialise dans les services AWS pour devenir Architecte Sécurité Cloud.  
 🎯 Objectif : sécuriser des environnements cloud complexes, automatiser les contrôles de sécurité, et contribuer à des projets DevSecOps concrets.
